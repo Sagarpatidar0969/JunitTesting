@@ -1,0 +1,6 @@
+2024-10-10 11:33:34 WARN  TestLog4j:15 - This is Warn...!!
+2024-10-10 11:33:34 ERROR TestLog4j:16 - This is Error...!!
+2024-10-10 11:33:34 FATAL TestLog4j:17 - This is Fatal...!!
+2024-10-10 11:33:39 WARN  TestLog4j:15 - This is Warn...!!
+2024-10-10 11:33:39 ERROR TestLog4j:16 - This is Error...!!
+2024-10-10 11:33:39 FATAL TestLog4j:17 - This is Fatal...!!
